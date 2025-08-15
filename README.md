@@ -42,6 +42,5 @@ Feel free to reach out to me at:
 - GitHub: [github.com/shivamsingh827](https://github.com/shivamsingh827)
 - Phone: [+91 8279801945](tel:+918279801945)
 
-# Portfolio Website
 
 Welcome to my portfolio repository! This is a clean, modern and responsive portfolio website built with HTML5, CSS3 and vanilla JavaScript. The site features a mobile-first design, smooth scrolling navigation, and sections showcasing my skills, projects and achievements. Feel free to use this as inspiration for your own portfolio.
